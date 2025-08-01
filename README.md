@@ -1,9 +1,9 @@
-<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=viktordynamite&utm_content=line">
-  <img
-    src="https://render.gitanimals.org/lines/viktordynamite"
-    width="350"
-    height="200"
-  />
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=viktordynamite&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/viktordynamite"
+  width="600"
+  height="300"
+/>
 </a>
   
 
