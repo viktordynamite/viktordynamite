@@ -1,13 +1,13 @@
 # Moving Away from GitHub
 
-Unfortunately, I am leaving GitHub for better git platforms.  
+Unfortunately, I am leaving GitHub for better git platforms. Deleted all the commits and repos
 You can now find me here:
 
 **Codeberg:** https://codeberg.org/viktordynamite  
  **Gitea:** https://gitea.com/viktordynamite  
 
 **LeetCode:** https://leetcode.com/u/viktordynamite/  
-  > It sucks, but it’s fun… sometimes.
+  It sucks
 
 🐾 **My animal farm shall stay here tho :3**
 
