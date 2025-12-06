@@ -4,7 +4,8 @@ Unfortunately, I am leaving GitHub for better git platforms. Deleted all the com
 You can now find me here:
 
 **Codeberg:** https://codeberg.org/viktordynamite  
- **Gitea:** https://gitea.com/viktordynamite  
+ **Gitea:** https://gitea.com/viktordynamite 
+ **Sourcehut too :)))**
 
 **LeetCode:** https://leetcode.com/u/viktordynamite/  
   It sucks
