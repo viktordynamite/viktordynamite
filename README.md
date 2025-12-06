@@ -1,3 +1,16 @@
+# Moving Away from GitHub
+
+Unfortunately, I am leaving GitHub for better git platforms.  
+You can now find me here:
+
+**Codeberg:** https://codeberg.org/viktordynamite  
+ **Gitea:** https://gitea.com/viktordynamite  
+
+**LeetCode:** https://leetcode.com/u/viktordynamite/  
+  > It sucks, but it’s fun… sometimes.
+
+🐾 **My animal farm shall stay here tho :3**
+
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=viktordynamite&utm_content=farm">
 <img
   src="https://render.gitanimals.org/farms/viktordynamite"
