@@ -1,6 +1,6 @@
 # Moving Away from GitHub
 
-Unfortunately, I am leaving GitHub for better git platforms. Deleted all the commits and repos
+Unfortunately, I am leaving GitHub and Microslop for better git platforms. Deleted all the commits and repos, maybe Ill contribute to some open source projects here. Self hosting git but also you can find me at:
 You can now find me here:
 
 **Codeberg:** https://codeberg.org/viktordynamite  
